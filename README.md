@@ -11,16 +11,11 @@ This project was born out of my curiosity to understand the hidden patterns and 
 
 🛠️ What I Did:
 1. Cleaned and preprocessed the raw dataset by handling missing values, duplicates, and formatting issues
-
 2. Transformed the data using appropriate feature engineering techniques to improve usability
-
 3. Performed Exploratory Data Analysis (EDA) using visual and statistical methods to dive deep into data distribution
-
 4. Conducted outlier detection and pattern analysis to highlight extreme values and anomalies
-
 5. Identified key relationships and dependencies between variables to lay the groundwork for deeper analysis or modeling
 
 📎 Tools & Libraries:
 1. Python (Pandas, NumPy, Matplotlib, Seaborn)
-
 2. Jupyter Notebook
