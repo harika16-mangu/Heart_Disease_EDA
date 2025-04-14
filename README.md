@@ -4,11 +4,12 @@ Hi there! 👋
 This project was born out of my curiosity to understand the hidden patterns and relationships within data — beyond just numbers on a screen. I wanted to explore how different variables influence each other and build a strong foundation for any future modeling or business decision-making.
 
 💡 Why I Did This:
--> To sharpen my skills in data wrangling and exploratory analysis
 
--> To uncover insights and correlations that aren't obvious at first glance
+1. To sharpen my skills in data wrangling and exploratory analysis
 
--> To build a structured and repeatable data analysis workflow
+2. To uncover insights and correlations that aren't obvious at first glance
+
+3. To build a structured and repeatable data analysis workflow
 
 🛠️ What I Did:
 1. Cleaned and preprocessed the raw dataset by handling missing values, duplicates, and formatting issues
