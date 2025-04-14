@@ -6,9 +6,7 @@ This project was born out of my curiosity to understand the hidden patterns and 
 💡 Why I Did This:
 
 1. To sharpen my skills in data wrangling and exploratory analysis
-
 2. To uncover insights and correlations that aren't obvious at first glance
-
 3. To build a structured and repeatable data analysis workflow
 
 🛠️ What I Did:
